@@ -1,0 +1,14 @@
+# Cocos Creator generated directories
+library/
+temp/
+local/
+build/
+profiles/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.swp
